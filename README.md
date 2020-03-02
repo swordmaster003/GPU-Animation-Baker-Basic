@@ -6,6 +6,20 @@ By using this GPU Animation Baker Basic package,you can play a large number anim
 
 ![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Cover.png)
 
+## Support Unity Versions
+
+5.6.6 or higher
+
+## Download
+
+You can download this asset from Unity Asset Store:
+
+[GPU Animation Baker Basic](https://assetstore.unity.com/packages/tools/animation/gpu-animation-baker-basic-135791)
+
+## Online Documents:
+
+[GPU Animation Baker Basic Manual](https://www.swordmaster.info/documents/unity-assets-documents/gpu-animation-baker-basic-manual-document/)
+
 ## Features:
 
 - 1.By using compute shader,we sample the animaion data for corresponding model to textures,then use the customized shader to read the animation data from these texture in rendering stage.
