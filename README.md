@@ -6,6 +6,10 @@ By using this GPU Animation Baker Basic package,you can play a large number anim
 
 ![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Cover.png)
 
+## Compare
+
+![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Compare.png)
+
 ## Support Unity Versions
 
 5.6.6 or higher
