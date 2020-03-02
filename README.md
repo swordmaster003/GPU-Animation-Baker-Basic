@@ -1,14 +1,16 @@
 # GPU-Animation-Baker-Basic
 
-By default,when we animate a large number of skinned mesh at the same time in screen,the frame rate is very low and the preformance is very bad.
-
-By using this GPU Animation Baker Basic package,you can play a large number animation at the same time on screen,with great performance and better frame rate.
-
 ![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Cover.png)
 
 ## Compare
 
-![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Compare.png)
+By default,when we animate a large number of skinned mesh at the same time in screen,the frame rate is very low and the preformance is very bad.
+
+![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Compare1.png)
+
+By using this GPU Animation Baker Basic package,you can play a large number animation at the same time on screen,with great performance and better frame rate.
+
+![image](https://github.com/swordmaster003/GPU-Animation-Baker-Basic/blob/master/Screenshots/Compare2.png)
 
 ## Support Unity Versions
 
